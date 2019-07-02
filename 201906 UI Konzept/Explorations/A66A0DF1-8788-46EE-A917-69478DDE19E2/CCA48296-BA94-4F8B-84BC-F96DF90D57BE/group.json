@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCA48296-BA94-4F8B-84BC-F96DF90D57BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8B7C5B7-6D63-48D7-A3D7-A3D0F5EF380B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8249FC81-C3B2-43BD-9835-018A4DC1165D",
+    "height": 16,
+    "width": 16,
+    "x": 312,
+    "y": 602
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "403D24AD-4918-4E1B-B0EE-258AE3EAB54E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3BFFD5D7-9A32-4DAB-8D9E-BF1A37CDDA22"
+    }
+  ],
+  "name": "ic_seats_active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE78B090-B249-421B-97B9-365308A58C13",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

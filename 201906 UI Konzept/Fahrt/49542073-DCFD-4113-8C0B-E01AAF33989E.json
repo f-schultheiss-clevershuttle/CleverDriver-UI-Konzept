@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8941176470588236,
+    "do_objectID": "26DCC116-15C9-4EBC-9633-300817674656",
+    "green": 0.8941176470588236,
+    "red": 0.8941176470588236
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49542073-DCFD-4113-8C0B-E01AAF33989E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7CFEA6A-E918-4FA0-9596-084CB6C4695C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "668FAEBC-D260-44C7-A459-BBB7ED7314DA",
+    "height": 640,
+    "width": 360,
+    "x": -179,
+    "y": 14656
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "EF3C0B41-31A9-4559-8B29-03E8F5B635B0",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E355154C-B8FE-44E2-9CA7-1F8E01A444D6"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "86BE77D9-93B5-4CB4-A141-E8751C9FA351",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "do_objectID": "1C9D5E35-065D-4AC0-A56E-412DBE2F43C7",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "3.0.4 Fahrtänderung B",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "194D817B-5351-44F8-A4E3-11F1B3E2E761",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3AB03D44-CFBA-43A4-BC42-9444266057F5",
+    "guides": [
+    ]
+  }
+}

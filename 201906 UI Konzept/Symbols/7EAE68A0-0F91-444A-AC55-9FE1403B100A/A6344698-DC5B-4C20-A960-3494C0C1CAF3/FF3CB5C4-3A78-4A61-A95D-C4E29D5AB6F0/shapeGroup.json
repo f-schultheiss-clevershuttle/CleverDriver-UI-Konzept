@@ -1,0 +1,120 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF3CB5C4-3A78-4A61-A95D-C4E29D5AB6F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25.12506327215462,
+    "width": 218.3942557799937,
+    "x": 61.60574422000632,
+    "y": 6.278540641600954
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4BC481EB-4215-4C64-9568-C8DBFB152B52"
+    },
+    {
+      "class": "shapePath",
+      "id": "D93578F0-4EA0-40FD-B325-CD54E33EB914"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7AC67FF-D2A2-476C-AD29-7E2EEB05D438"
+    },
+    {
+      "class": "shapePath",
+      "id": "EB15378A-A3F2-4425-9437-D04C1A9D407C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8520D35E-5279-4C78-B283-C0844D560965"
+    },
+    {
+      "class": "shapePath",
+      "id": "98EBD0D3-6264-4F2B-BD32-8A97B679D848"
+    },
+    {
+      "class": "shapePath",
+      "id": "58B5E545-AD28-4739-9BA6-BD4B3BC847E8"
+    },
+    {
+      "class": "shapePath",
+      "id": "043F105B-D37B-4D4D-BFC6-9AE528922CE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "440A07A3-164A-45E2-A7C7-2A8CEE3FF311"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FC59F65-577F-4048-A4D2-DD4E8F9B804A"
+    },
+    {
+      "class": "shapePath",
+      "id": "2BE33C21-5A38-41CE-BB83-A6A303F44CC3"
+    },
+    {
+      "class": "shapePath",
+      "id": "51BE7651-8127-4A44-BF1B-92EDEBD1289D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E36FCFF-80E9-4E44-80CD-51745248844D"
+    }
+  ],
+  "name": "CleverShuttle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.388,
+          "green": 0.78,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

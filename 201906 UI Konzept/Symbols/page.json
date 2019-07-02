@@ -1,0 +1,138 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA1EA0AC-3EEC-4555-8A82-8429B8E3D8FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "ECAFB54C-1289-4F69-9BC6-033C902C6B4D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5022BF90-32A0-4FFD-B660-74FA2D42B117"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "96DF533A-CF81-4428-8338-3FA1D19B698A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1AE15C53-CD38-48C9-AF4B-EF236C7B5A39"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "35E661A3-40B4-45B4-917A-ECA5504AC0BA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D886F066-3038-4C92-A1B8-ED20E3D2991A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6ED4C11D-78D7-4BC2-A519-A860CB4E7E31"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "581C1DC0-BE9A-414B-821F-D02F2DBD72BB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AAA725EC-2E4C-4846-8D56-5C5E9E29FC9A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7EAE68A0-0F91-444A-AC55-9FE1403B100A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0CD4E53E-0936-4DED-88C6-FE72BDAEA5AC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "88CA47ED-6777-4D5B-8D14-5A001A35EF60"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "71935F69-8F0A-4391-8A0E-891049C86A52"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5AFF8F74-31D1-44FD-B0A2-2194234C12CA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E7908094-0715-4B89-97A0-A0C3D51D977C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A9CC553F-0F3B-42C0-8875-B95395F1C650"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "44A3290F-0C76-47CC-9D21-B1A4B07A826A"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    },
+    "com.sonburn.sketchplugins.symbol-organizer": {
+      "globalSettings": "1"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

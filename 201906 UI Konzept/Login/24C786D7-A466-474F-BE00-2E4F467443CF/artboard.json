@@ -1,0 +1,165 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "24C786D7-A466-474F-BE00-2E4F467443CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "184B1EB1-37B0-4DA0-8384-24444D42390B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62674616-821A-4B2C-9E64-D976FD55F1E2",
+    "height": 640,
+    "width": 360,
+    "x": 295,
+    "y": 1239
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F71B2A62-E50F-4940-B552-0724A4E8D792",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B39FE44B-0E42-4843-A3C0-FCE1A700CA01"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6F29F267-96B4-4E54-833E-AD2451836669",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A7E8DF53-5C69-4E07-A795-3BA5198B485C"
+    },
+    {
+      "class": "group",
+      "id": "BF50D45F-E1E5-4114-B232-CE8FF08F1B7C"
+    },
+    {
+      "class": "rectangle",
+      "id": "89A2F2C9-E17D-44B8-AE57-7BEF9C1F9C76"
+    },
+    {
+      "class": "rectangle",
+      "id": "6FEF81F9-D145-4584-854A-8695877A49DB"
+    },
+    {
+      "class": "rectangle",
+      "id": "7550B480-D796-4772-B2FD-85A05684DECD"
+    },
+    {
+      "class": "text",
+      "id": "E00636B4-1B73-47A1-982C-88BC6572F744"
+    },
+    {
+      "class": "text",
+      "id": "B243C36F-5829-4881-85E6-C6D217118D3E"
+    },
+    {
+      "class": "text",
+      "id": "AF1F4B5E-D375-4084-B046-2769512EF4BC"
+    },
+    {
+      "class": "text",
+      "id": "1AE2DEC6-A429-4C31-AB96-EB84E4536B51"
+    },
+    {
+      "class": "group",
+      "id": "A07AE3E0-4D4E-4E43-B4C4-96B5DAD2BDD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B70AEA7B-DE68-4773-8AC6-6BA75E5D4131"
+    },
+    {
+      "class": "text",
+      "id": "8AFEB7B9-B590-4D79-AE8A-B6AB6FCE8595"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "do_objectID": "E5FDF148-BBA9-4737-A9F6-6F5BE28FDC50",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "1.1.0.a Shuttle verknüpfen",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E90C955-38FC-46A9-A32A-D18AE7320064",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAppRoot": 0,
+        "nestedSymbolsCacheKey": "+67QXPrb506nqIl9ZRKKXA9yW25BmewPHdku2Ekfz7A="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A05D364B-68A3-422B-8350-4F8367FA109A",
+    "guides": [
+    ]
+  }
+}

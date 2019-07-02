@@ -1,0 +1,166 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DFDE1EDB-CC0D-4264-AA82-6A7BCABE2F61",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C547565-437A-43A4-BA4B-82EBFC67C3F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52BD8488-CB54-4432-BD93-CD51AC2E285F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6B4C2D9-BE53-4A03-B700-3DDE409EDECC",
+    "height": 640,
+    "width": 360,
+    "x": -4154,
+    "y": 1147
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "D8D4604B-2CFA-4094-8EC3-A9BD9A3B623B",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4C4174FA-D4DA-486B-A728-94CE3266B84B"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F82558D5-B50F-454B-94F6-F24727746FFC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C094A7F1-A58E-49C9-92D9-CB9EFA7340F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC5BD92D-1270-40F2-9736-5CBAD016B38B"
+    },
+    {
+      "class": "group",
+      "id": "F5F0321B-082A-43F3-8948-58306DE4518D"
+    },
+    {
+      "class": "rectangle",
+      "id": "46DE147B-C46A-4D63-9E27-A98922B8830C"
+    },
+    {
+      "class": "rectangle",
+      "id": "5F625D59-2A95-4ADF-A2FC-C8E9808345EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "ABC231AA-A293-4FDF-9AC8-AF9FB2CCEE8D"
+    },
+    {
+      "class": "text",
+      "id": "0F6E5B2F-D648-463E-A09C-03575B177DBE"
+    },
+    {
+      "class": "text",
+      "id": "58E530F4-0896-4837-9935-132146FAF82C"
+    },
+    {
+      "class": "text",
+      "id": "9AE961D1-AECA-4E28-9223-B3D4E31065D5"
+    },
+    {
+      "class": "text",
+      "id": "1EA4817A-B7FC-4125-8F17-141B0C71ADEA"
+    },
+    {
+      "class": "text",
+      "id": "20DF9A00-2750-4931-9DA7-0885C506BBE0"
+    },
+    {
+      "class": "group",
+      "id": "3C5691B0-80E9-444C-B3EE-E39DAB66A19F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62953173-E5AA-476B-B1FC-6D985A3575E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4363F96-7A5F-45F0-BDF4-C3936272BC42"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "do_objectID": "CDEAB27A-3873-4B22-8F81-F24179D558BA",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "1.1.0 Shuttle verknüpfen ",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00543087-F8B2-4783-AF3C-A647751EF2F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "23D99DBC-3DE9-4CFD-BEFF-807D910D907C",
+    "guides": [
+    ]
+  }
+}

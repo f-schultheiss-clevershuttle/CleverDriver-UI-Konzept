@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "03011377-CAFD-4615-B642-36FDE5A05772",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AB63DF9-0453-45AD-A4A8-36D7AA08A582",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A99A771D-0192-4F26-B65F-2FDDC8D31477",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A76E1E72-C6A5-42A0-950A-EAFBBEFE726D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F30F7BEC-0231-4A94-BFA3-56ECC28A5739"
+    }
+  ],
+  "name": "App Bar / Top App Bar / Regular / Flat / Surface Color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "481A6DF4-7809-479E-BF1C-6F062D2BC91D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

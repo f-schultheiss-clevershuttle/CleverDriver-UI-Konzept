@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C472819-5B5E-4CB4-954B-7DF6DFEB20CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8F6BBD4-943B-4886-985A-E1E5D1A95122",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DB84447-8682-4007-8506-318762B65865",
+    "height": 515,
+    "width": 517,
+    "x": -157,
+    "y": 59
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "75C2D66C-68F0-4BD8-8C3E-A9DC377141C6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A4EA48F9-A4AC-4A43-A77B-DAE4E982B82B"
+    },
+    {
+      "class": "shapePath",
+      "id": "7162FEC9-1BE4-4FF3-913A-B14DFC129562"
+    },
+    {
+      "class": "shapePath",
+      "id": "C8BA6B45-9284-4DB1-8FCB-2E959A66DCF0"
+    },
+    {
+      "class": "text",
+      "id": "14FE7794-1A1C-48CB-A4EE-1BA42512591F"
+    },
+    {
+      "class": "group",
+      "id": "3ED0D8B0-08F3-4AA2-8C7E-B269CD4B858C"
+    },
+    {
+      "class": "group",
+      "id": "E4D2B8DE-2DA0-473E-A2BE-32620BBF1896"
+    },
+    {
+      "class": "group",
+      "id": "F2B9CA6B-6385-49E4-983E-A9E594144B85"
+    },
+    {
+      "class": "group",
+      "id": "F6AE474E-DDC2-498A-B7B5-178528451B82"
+    },
+    {
+      "class": "group",
+      "id": "985EF261-73C0-47C0-AB5B-3625E310504F"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "480F319E-61E1-40F7-B5F4-6543D9F9B81A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

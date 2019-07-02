@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED13D040-C23D-40F6-B009-B3CE3B7D321E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5601A1FC-7AA9-41F9-8698-1BAA9B316799",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "053458BE-5928-4E7F-9CA1-79F0DFBF3A9C",
+    "height": 20,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android / System Bar / dunkler Hintergrund",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "493B14C0-2CC3-4A88-B365-14FCB35B6693",
+      "overrideName": "9A2212C9-A07C-4236-8C12-1BDA3FDC663D_stringValue",
+      "value": "10:31"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5895200F-9236-4A24-ACA5-67035BC54AC9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6DDB07D-3CAE-4D9A-8572-C7FE828243F4",
+  "verticalSpacing": 0
+}

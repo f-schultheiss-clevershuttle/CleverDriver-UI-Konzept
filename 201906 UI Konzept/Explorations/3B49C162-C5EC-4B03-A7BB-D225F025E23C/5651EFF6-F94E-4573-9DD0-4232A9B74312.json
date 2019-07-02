@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5651EFF6-F94E-4573-9DD0-4232A9B74312",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0EA1F17-512F-4B53-BEF3-15F74BB6728E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "981F5512-A29D-4D0D-A4F5-862E36757A17",
+    "height": 64,
+    "width": 328,
+    "x": 16,
+    "y": 576
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Backdrop / Elements / Front Layer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F799CF6A-2FF8-4DD9-8942-8260B9E0D950",
+      "overrideName": "9570104C-3BF1-49F9-8050-3367D3A3B9A3/A8C7EBC3-17C9-4B61-9157-9F005D7E12B5_stringValue",
+      "value": "Explore Flights by Destination"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85E588DE-6C78-48C8-9563-2034F66A511D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A5AC64D0-BE66-4664-AF2B-C6133D20A85F",
+  "verticalSpacing": 0
+}

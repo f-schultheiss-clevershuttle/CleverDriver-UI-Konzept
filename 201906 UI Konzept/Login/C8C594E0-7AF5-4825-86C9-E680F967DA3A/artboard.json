@@ -1,0 +1,165 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8C594E0-7AF5-4825-86C9-E680F967DA3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96112B30-847A-40B9-8F7C-C25978DD10DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B15DD4A-8411-4F26-A17F-EEF1EAE2DF18",
+    "height": 640,
+    "width": 360,
+    "x": 1905,
+    "y": 1239
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "4055B8A5-998F-4854-8D20-94D54DFF930D",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "19E532B4-CD9B-4D71-8A33-93DA94568E09"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6A905195-EF85-4611-B73B-94E9C44F7FAD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "885E54A6-44C2-402B-A3C5-52B2BA343E8C"
+    },
+    {
+      "class": "group",
+      "id": "C2036EE7-A8DF-432C-BE6F-C58D67B13AAC"
+    },
+    {
+      "class": "text",
+      "id": "ACC5FCB3-E76F-450C-84A1-0542F5C37C2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "653E0A0A-C939-4030-948C-8DE4CFC64413"
+    },
+    {
+      "class": "group",
+      "id": "09DF3C8B-B886-4C9E-8677-2B5262618C6D"
+    },
+    {
+      "class": "rectangle",
+      "id": "659E9E06-8DEA-4158-A8F5-1388679433CE"
+    },
+    {
+      "class": "text",
+      "id": "5FED1063-6006-4F2C-AE91-19E055233B2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1E24024-3998-4445-BAB6-B86D9E954B2B"
+    },
+    {
+      "class": "rectangle",
+      "id": "0DD17388-5529-41C3-BC7A-34565466E9EB"
+    },
+    {
+      "class": "text",
+      "id": "6E3EAB47-4E59-481E-B4ED-1BE175D6A7EC"
+    },
+    {
+      "class": "text",
+      "id": "920161DE-25C8-4589-B479-8F9649BD7665"
+    },
+    {
+      "class": "text",
+      "id": "C281846A-BF41-4106-8B1E-E7BBA752B1ED"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "do_objectID": "DE098258-430B-4313-9835-A24903469C39",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "1.2.1.a Schaden melden (Formular)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87A2AD2F-65AF-4BF4-B78F-98EE8A138495",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAppRoot": 0,
+        "nestedSymbolsCacheKey": "QQqcnDbafI0zLV8BFBWWhH4Z/yIIZxmE/Kskky6Nl7w="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "162FC5C6-BE96-49CD-B22B-4537659F3042",
+    "guides": [
+    ]
+  }
+}

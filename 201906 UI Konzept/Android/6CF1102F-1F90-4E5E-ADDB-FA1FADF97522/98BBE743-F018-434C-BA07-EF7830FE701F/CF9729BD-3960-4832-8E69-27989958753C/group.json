@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF9729BD-3960-4832-8E69-27989958753C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84F04A5C-8E9B-4535-B817-9B6D3B2B0A5D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BCDFB5A-4CB9-4011-B5D9-8F90C69EC26E",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4F13EC6B-A24D-446A-88DC-29E87C13808F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BEBA5AC7-6140-4601-BAE3-183C42447C2B"
+    },
+    {
+      "class": "shapePath",
+      "id": "D17D9F76-9F11-4FE1-A82A-96A59264D279"
+    },
+    {
+      "class": "shapePath",
+      "id": "C3BF088A-FABB-486E-A56C-4D7A822C5EA1"
+    }
+  ],
+  "name": "WiFI",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC99A9B2-D22D-4B08-8D83-65B9726C1C54",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

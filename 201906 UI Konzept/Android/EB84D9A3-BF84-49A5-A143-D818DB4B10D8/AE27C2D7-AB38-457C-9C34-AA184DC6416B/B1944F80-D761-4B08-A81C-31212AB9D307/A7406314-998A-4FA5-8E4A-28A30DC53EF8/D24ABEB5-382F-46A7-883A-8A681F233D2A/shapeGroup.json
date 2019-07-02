@@ -1,0 +1,114 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D24ABEB5-382F-46A7-883A-8A681F233D2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 20,
+    "x": 2,
+    "y": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C056CB71-298D-49D6-82EA-6AD855C90864"
+    },
+    {
+      "class": "shapePath",
+      "id": "853266BA-0DF3-46B0-AD9F-021A51E55467"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDB9A096-ECD9-4752-B8D1-9D704AA1ECE4"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C8E30DA-3A7B-48D3-81AD-82EE1DAD5D4F"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A0FFE51-C362-4BB2-A435-A9F2CA503238"
+    },
+    {
+      "class": "shapePath",
+      "id": "301FE265-5E87-41D0-B402-1A842577B6D4"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9CCEFE0-0E61-4813-A08E-5E146D6F37DE"
+    },
+    {
+      "class": "shapePath",
+      "id": "40EB6E7F-32D0-4FE5-8EA6-2FEDE6C61041"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE2253F6-479B-45E6-B228-ADAF78C9DF4E"
+    },
+    {
+      "class": "shapePath",
+      "id": "0D99D1AB-6EF1-4D84-8AD6-3D309B856FB3"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "779B637F-0445-45F0-88B5-5983A9B3DD40",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5399999618530273
+    },
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

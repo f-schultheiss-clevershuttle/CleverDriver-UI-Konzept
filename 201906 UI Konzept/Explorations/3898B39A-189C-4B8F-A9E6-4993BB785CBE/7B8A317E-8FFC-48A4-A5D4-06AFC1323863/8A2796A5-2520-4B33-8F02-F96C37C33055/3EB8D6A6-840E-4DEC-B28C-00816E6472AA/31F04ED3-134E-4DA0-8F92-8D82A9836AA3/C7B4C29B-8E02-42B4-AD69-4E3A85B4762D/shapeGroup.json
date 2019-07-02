@@ -1,0 +1,104 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7B4C29B-8E02-42B4-AD69-4E3A85B4762D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE6AE0DA-EE5D-4408-8D48-4D65F51EEDB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "007978B7-CD5E-41FC-BB6C-AB8A2162436E",
+    "height": 23.74825174825164,
+    "width": 31.27272727272723,
+    "x": 0.6853990311515027,
+    "y": 14.25848066393791
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "791C41D5-D34E-4AA2-ADBA-C883C2621D32"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AB2021C2-8819-4F5B-A1BF-033A0A850C78"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D3AEA60-C9E0-42D8-ACCA-5C93824BB6F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE80E559-847A-454D-BFE2-129DCD2DA259"
+    },
+    {
+      "class": "shapePath",
+      "id": "8134CECD-DF9F-46AE-A848-A822FBF96331"
+    },
+    {
+      "class": "shapePath",
+      "id": "0A872023-58D2-4F41-BCD5-20C442A15DB9"
+    },
+    {
+      "class": "shapePath",
+      "id": "90D67359-E0DB-490B-81C0-6B21B58FD4FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "EB78F7A1-D5DE-4037-8A68-C25DBA795787"
+    },
+    {
+      "class": "shapePath",
+      "id": "93FD0EF8-B09D-4065-91F5-89C5ED4D0016"
+    }
+  ],
+  "name": "Rechteck_13893_2_ 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC5878FB-6A73-43EB-A105-84A52DA63045",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

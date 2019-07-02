@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8277C852-F037-47F4-8748-47973834AC2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6225CD30-EDBA-45D1-BF4E-6CD34C136520",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "58ABA4C9-E384-4B85-9A21-DFBD156B517C",
+    "do_objectID": "6F9512ED-4EE4-4884-949C-4400AF3198BC"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "712A424D-2D7F-4545-9AA4-7D333DC7E4EC",
+    "height": 224,
+    "width": 360,
+    "x": 0,
+    "y": 416
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android / Keyboard / Uppercase",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6416B962-FBE2-4417-AB8D-61AFD972375F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3B59E987-FDC1-4656-98D2-992B5420A164",
+  "verticalSpacing": 0
+}

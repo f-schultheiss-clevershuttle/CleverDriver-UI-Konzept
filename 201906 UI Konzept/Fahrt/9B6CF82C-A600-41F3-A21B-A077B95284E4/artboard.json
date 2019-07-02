@@ -1,0 +1,153 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B6CF82C-A600-41F3-A21B-A077B95284E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": -1450,
+    "y": 10262
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3B69D619-D63F-43E3-9DB0-FBD7451C1CBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86912297-CEA0-4664-A424-A97EF0F8D9BC"
+    },
+    {
+      "class": "oval",
+      "id": "73103035-9E66-4CDB-ADA7-DBA093AB209A"
+    },
+    {
+      "class": "group",
+      "id": "70D1F7C7-9128-4030-86A4-1BA0240DEFB7"
+    },
+    {
+      "class": "group",
+      "id": "A3DE4FF4-9D79-454B-A81F-CDC1631460FC"
+    },
+    {
+      "class": "group",
+      "id": "718FC272-EF6C-4C40-9F50-25ADEFB05798"
+    },
+    {
+      "class": "group",
+      "id": "89739DEB-C9C0-43BA-BF1C-F37A3DB1D311"
+    },
+    {
+      "class": "group",
+      "id": "6DF532E9-75AB-4F32-9C94-18DD36497650"
+    },
+    {
+      "class": "group",
+      "id": "49B0C6B4-5861-4290-9926-075C1E3E1694"
+    },
+    {
+      "class": "group",
+      "id": "664DD64A-B882-4E36-B1F1-3A5102436C7E"
+    },
+    {
+      "class": "group",
+      "id": "68144E49-4693-4E4C-A368-4D1712401861"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "17CE4653-B2EA-425D-AC1F-F8748140BEC1"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "7EC507D0-DA65-4AD3-9A40-51B67DCE854C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "2.1.1 Leerlauf Buchung",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

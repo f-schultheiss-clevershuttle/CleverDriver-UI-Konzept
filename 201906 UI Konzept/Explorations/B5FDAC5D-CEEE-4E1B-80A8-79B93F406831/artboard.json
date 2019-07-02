@@ -1,0 +1,204 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CE4F6656-7618-4EC0-A241-BAED1A3DB788",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5FDAC5D-CEEE-4E1B-80A8-79B93F406831",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2CA2F63B-E0E0-4AC5-953C-BB4ABAFF2195",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7916D67-FCF5-4BCE-B557-ABEB8E623287",
+    "height": 640,
+    "width": 360,
+    "x": -6226,
+    "y": 1105
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "97050E0B-6679-4A54-B83F-DA67E9A25C54"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9993C671-9759-4C49-B4C8-B7991FDBB2C4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D86A5348-5C00-46D8-AB9D-4DBFB28DB57B"
+    },
+    {
+      "class": "group",
+      "id": "0974C76F-96FB-484D-9503-89EE34915E2F"
+    },
+    {
+      "class": "rectangle",
+      "id": "E0E33B30-0E38-4E27-A985-0C2858C34F68"
+    },
+    {
+      "class": "rectangle",
+      "id": "F20E0E7E-B7C1-4D06-9FD0-3BB5A079DE4F"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D42B339-067E-4479-99CC-8DB103180A47"
+    },
+    {
+      "class": "text",
+      "id": "EAD5CFBB-D63F-4581-8806-55D376293555"
+    },
+    {
+      "class": "text",
+      "id": "3738D984-CA00-4BF2-BDB1-01891C5826CD"
+    },
+    {
+      "class": "text",
+      "id": "8CDDAE27-4F38-43FD-85C6-4D238DF8C798"
+    },
+    {
+      "class": "rectangle",
+      "id": "26E33781-5886-4B07-9904-71F82A229DD3"
+    },
+    {
+      "class": "rectangle",
+      "id": "1EC7DB45-46A6-45EC-B59F-27AFBB0FE602"
+    },
+    {
+      "class": "text",
+      "id": "EFA2C994-A94C-4497-B084-7C611C22B125"
+    },
+    {
+      "class": "text",
+      "id": "A5CA57DF-F2AD-4E1F-B74E-AE6D2C856573"
+    },
+    {
+      "class": "text",
+      "id": "38135D2E-2A58-48EC-8304-B4496E3C8EFC"
+    },
+    {
+      "class": "text",
+      "id": "3D67B150-F0E3-45DE-87B2-B59FBC9079F6"
+    },
+    {
+      "class": "text",
+      "id": "8738D92B-FE63-44DA-99B7-3B6CBF1CD934"
+    },
+    {
+      "class": "text",
+      "id": "6808683F-E6B8-479A-A422-63476B6956ED"
+    },
+    {
+      "class": "text",
+      "id": "D068477C-408F-4662-A942-6E9B437CEA6B"
+    },
+    {
+      "class": "text",
+      "id": "5EE164E7-D313-419D-844B-F51F5563059A"
+    },
+    {
+      "class": "group",
+      "id": "781958AA-C1E3-49F0-92C1-35FA028D97CF"
+    },
+    {
+      "class": "text",
+      "id": "EA1331A4-EED1-4ED8-A47E-19249F16E5A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80FC959C-E927-45F7-BD23-24F57DCE6D6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D3FE3AE-B0FF-4F86-A03B-327810A5ED52"
+    },
+    {
+      "class": "text",
+      "id": "E0620BF3-5031-4396-8323-A94691233652"
+    },
+    {
+      "class": "group",
+      "id": "1320418F-49D8-4E21-AB66-B88C74AAE965"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "1.0.1 Fahrzeug-Details",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E94BA79-5EDA-4612-907F-F2F61331E79D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7A4A779D-2C34-471E-86E5-A88EF47EB670",
+    "guides": [
+    ]
+  }
+}

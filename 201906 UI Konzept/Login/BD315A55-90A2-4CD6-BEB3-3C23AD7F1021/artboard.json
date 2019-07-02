@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD315A55-90A2-4CD6-BEB3-3C23AD7F1021",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CA9E2EE-1871-48DF-93FA-17F589090A95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6F9B254-C277-4CAA-B35B-1DB5DD005944",
+    "height": 640,
+    "width": 360,
+    "x": 1905,
+    "y": 1975
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E73184E9-8733-491D-8A16-0BC4074641ED",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0354B420-8B40-4EAD-B31E-600D53BB5631"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "54BFDB67-9583-4CE5-B06D-86EA7643CFFA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A34B9850-34A8-4301-8B7B-05C6E6A613D8"
+    },
+    {
+      "class": "group",
+      "id": "03011377-CAFD-4615-B642-36FDE5A05772"
+    },
+    {
+      "class": "text",
+      "id": "FB4752BB-F7AA-48A9-826E-B1D7C2C53C8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECC7AC75-9AB6-48B9-A7BD-7915B2B335D3"
+    },
+    {
+      "class": "group",
+      "id": "B0DD7C46-F312-4AA2-8705-CBD4ABC6D00E"
+    },
+    {
+      "class": "rectangle",
+      "id": "B2F61729-EE2F-4305-AE06-AB537FDAECBB"
+    },
+    {
+      "class": "text",
+      "id": "8F13367F-7290-4214-A788-E25F8B45DC25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F75B727B-7689-4059-8E43-D467B3278AF6"
+    },
+    {
+      "class": "rectangle",
+      "id": "2DD368AF-2A1F-4372-937A-5E0B82012ADC"
+    },
+    {
+      "class": "text",
+      "id": "B7A5D973-8853-455F-8124-4D882F9282BE"
+    },
+    {
+      "class": "text",
+      "id": "BDC981D0-B19D-439C-9D7D-4CC3418DD926"
+    },
+    {
+      "class": "text",
+      "id": "756E98CC-1A88-49A8-BC1C-696DAE02C97C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "do_objectID": "69772A86-1055-4B1C-97E4-652D73190739",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "1.2.1.b Schaden melden (Formular)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FBF8FF2-D803-4C50-8FC0-F96D27D9B370",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAppRoot": 0
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A3103148-A662-4B1D-A525-E935C533E743",
+    "guides": [
+    ]
+  }
+}

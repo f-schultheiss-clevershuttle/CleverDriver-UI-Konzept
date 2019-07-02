@@ -1,0 +1,167 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1BE1C4D6-E0E3-44BC-B1E6-53B3A051967C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF21AEEF-AE40-457D-A558-F9953A36E48F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF82702E-3F5B-4DBC-9751-15482AB51392",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DB6F7AF-CBF0-468E-BC66-A954C184846E",
+    "height": 640,
+    "width": 360,
+    "x": -2721,
+    "y": 10262
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E7635395-3C69-47A7-9CAC-F9020F4E498C",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E4569E72-4BF9-45CC-A603-5B7430ED22F9"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B7D32889-C151-4223-B75D-CB964B664A0D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FB2DB052-C7F1-47AC-B41D-C829DD03B62D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB1B8B0A-85A3-4DE8-95FA-CB80314165B9"
+    },
+    {
+      "class": "oval",
+      "id": "0AB51014-E621-4223-863B-8C0A7FD1DBBC"
+    },
+    {
+      "class": "group",
+      "id": "A93072F5-11A5-4F9F-B110-6E1889960CDF"
+    },
+    {
+      "class": "group",
+      "id": "3FBF2A0D-0CCC-4A4D-881C-2256158EBA3E"
+    },
+    {
+      "class": "group",
+      "id": "9E567ED9-730A-4500-B864-59500E1B02DD"
+    },
+    {
+      "class": "group",
+      "id": "FFE60D1C-AE0D-439C-9CD9-996A9A2D21BE"
+    },
+    {
+      "class": "group",
+      "id": "8A56D1A8-66DE-4C7B-8471-B7BB81B6C842"
+    },
+    {
+      "class": "group",
+      "id": "3A0504E8-3B60-4397-AAD3-238FE9922F2F"
+    },
+    {
+      "class": "text",
+      "id": "1B220F47-0928-479F-AB4C-D02FD603713D"
+    },
+    {
+      "class": "text",
+      "id": "439DD3DE-9318-4C7D-AD08-E61096254719"
+    },
+    {
+      "class": "group",
+      "id": "7DE242EB-641E-4D45-8942-D6CED92F8F9B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "do_objectID": "B39C3145-DDE8-4164-8345-71F524FA5AA5",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "2.0.0 Leerlauf Pause",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CE9B8E4-E97A-437B-AB19-A36737D1B08B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7E277C9D-B011-498E-B472-E942A15EAA39",
+    "guides": [
+    ]
+  }
+}

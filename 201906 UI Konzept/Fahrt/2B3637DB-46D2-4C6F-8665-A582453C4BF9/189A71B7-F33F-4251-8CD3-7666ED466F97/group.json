@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "189A71B7-F33F-4251-8CD3-7666ED466F97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "031093A0-2C76-45AE-9421-B0D17B6C7F10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47E8E9E1-DE15-4073-BB28-03CFA462730C",
+    "height": 49,
+    "width": 37,
+    "x": 169,
+    "y": 95
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "01BE0FB5-A6FF-44BB-9B2E-2071B2EF00D3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "986D049F-F198-4E62-9F7E-EA705922AA55"
+    },
+    {
+      "class": "shapePath",
+      "id": "7BA66237-EBFE-41E7-8030-D75870360A7F"
+    }
+  ],
+  "name": "Ziel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F4961D9-31EE-4EFE-9FD4-A64456D58CDA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

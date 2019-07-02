@@ -1,0 +1,86 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A28E0E0-6932-455B-9BD8-34C3DD1E799E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -563,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "EB84D9A3-BF84-49A5-A143-D818DB4B10D8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CD8558AC-9B35-40BA-BE3A-7CC3A3D22DA5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B5E21E33-3B7F-4128-A76B-0FED8850C580"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "77BCBC40-4488-43B7-AD22-5726969FDBF3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6CF1102F-1F90-4E5E-ADDB-FA1FADF97522"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E6A2E282-496F-4FEC-BC83-BB9DAE8A38AB"
+    }
+  ],
+  "name": "Android",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -446,
+    "guides": [
+    ]
+  }
+}

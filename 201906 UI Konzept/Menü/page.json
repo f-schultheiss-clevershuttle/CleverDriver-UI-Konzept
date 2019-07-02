@@ -1,0 +1,92 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "53B77C77-F0E2-4AC9-9674-C16B1183F685",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -563,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "0B35127C-5A5F-45D1-A0E0-096C9C5E6AC7"
+    },
+    {
+      "class": "artboard",
+      "id": "43C8CC51-EEEB-4A26-81F4-E716FC806BD1"
+    },
+    {
+      "class": "artboard",
+      "id": "B4F63E6B-8547-40FF-BDA2-4E8590DCB7D8"
+    },
+    {
+      "class": "artboard",
+      "id": "CFA51418-48E1-44C7-A19B-652567A44787"
+    },
+    {
+      "class": "artboard",
+      "id": "B0576E7F-5746-4980-9FEA-415225532A6B"
+    },
+    {
+      "class": "artboard",
+      "id": "8D72D40C-3BEB-409E-8E0A-E4A5CCABF9C9"
+    }
+  ],
+  "name": "Menü",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.animaPageID": "1BF62C7C-37F9-4AAE-8650-E601938E9DC2",
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -446,
+    "guides": [
+    ]
+  }
+}

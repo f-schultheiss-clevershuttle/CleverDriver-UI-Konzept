@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "217BC86A-A4FB-4FDC-A490-F0CFCE16A411",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 392,
+    "width": 360,
+    "x": 0,
+    "y": 538
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "17075F7D-A0B8-4109-B31F-53311349AB68"
+    },
+    {
+      "class": "group",
+      "id": "192EC617-B920-4581-BC4C-2BB3BFB0E5F9"
+    },
+    {
+      "class": "group",
+      "id": "4C088474-ED3D-4521-BA82-776A050AA9EA"
+    },
+    {
+      "class": "group",
+      "id": "C57CFCBE-1F49-48C1-AB4E-D8CA3D38CCFB"
+    },
+    {
+      "class": "rectangle",
+      "id": "06BB407D-04FF-4FB1-8E66-0F6DF69E8F46"
+    },
+    {
+      "class": "group",
+      "id": "972863E2-6A85-499C-94DB-B1752DD5A15B"
+    },
+    {
+      "class": "group",
+      "id": "33606663-91D8-46C0-BD9E-B769BBD7900A"
+    },
+    {
+      "class": "group",
+      "id": "2827B845-382A-4785-AF58-3B0F8D4FD9E6"
+    },
+    {
+      "class": "text",
+      "id": "65D9B036-C960-4EA3-8680-5E11ABBBBD2E"
+    },
+    {
+      "class": "text",
+      "id": "0D589D2C-6CA8-4C62-94DD-5E3B4B44C9FA"
+    },
+    {
+      "class": "group",
+      "id": "B357B0F0-B506-4BD3-BCB7-9FBA60157643"
+    },
+    {
+      "class": "shapePath",
+      "id": "A021ABBE-7286-4746-A33C-9235D5A750D2"
+    },
+    {
+      "class": "shapePath",
+      "id": "25E0CB5D-4BF3-4468-A743-43A2846A6034"
+    }
+  ],
+  "name": "Group 12",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

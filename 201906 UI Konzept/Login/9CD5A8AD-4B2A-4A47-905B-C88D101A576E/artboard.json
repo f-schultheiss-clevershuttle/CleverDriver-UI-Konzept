@@ -1,0 +1,213 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.06272644927536232,
+    "green": 0.06272644927536232,
+    "red": 0.06272644927536232
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CD5A8AD-4B2A-4A47-905B-C88D101A576E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C51728B2-0706-4464-A06E-B54338FDFE80",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5238421C-31B9-4659-B2BA-0B362C7DE8BF",
+    "height": 640,
+    "width": 360,
+    "x": -1541,
+    "y": 21
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "2B8ADEE0-11E3-4DE6-8DA4-5C1E19759A0B",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5F86E3FE-5EC4-4EFF-AD7C-CEFD81B5649D"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A82C4F99-F8A3-4BCB-8ED9-D4999B7417B3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "51FEF9B7-5780-407A-A575-1456B361EC8F"
+    },
+    {
+      "class": "bitmap",
+      "id": "5547AD69-8641-4FD9-B9B9-4F1F215F25A4"
+    },
+    {
+      "class": "group",
+      "id": "4AA1B197-E4B5-482F-BCE0-C7DF76C08EF3"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "F1EFF3C7-2AAC-4C22-BADA-3AF4D7DC4CF2"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "do_objectID": "5E57257F-6431-47FC-BBEC-1F96E266CF42",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "0.0.0 Splash",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DA523C6-A815-41F0-BC0F-74EA8712A792",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "timer",
+                "modelID": "eventListener_193a0312-fdf1-4648-9d8c-b0af302ffe66",
+                "model_class": "ADModelEventListener",
+                "model_version": 0,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_c42ae91c-9119-4ac3-afce-a096f4711d42",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0,
+            "name": "Transition (Initial -> Keyframe1)",
+            "targetStateName": "keyframe1",
+            "timelines": [
+            ],
+            "trigger": 0
+          },
+          {
+            "animation": 0,
+            "customAnimationId": "",
+            "delayFromTrigger": 0,
+            "isOverlay": 0,
+            "modelID": "OpenScreen_be1080f2-2e0e-4760-86d9-848c1684071e",
+            "model_class": "ADModelActionPresentScreen",
+            "model_version": 0,
+            "name": "untitled",
+            "presentationType": 2,
+            "screenId": "7ECCA6FB-CC4B-4BF2-9281-7E75186F73C7",
+            "trigger": 4
+          },
+          {
+            "delayFromTrigger": 0,
+            "listeners": [
+              {
+                "event": "click",
+                "modelID": "eventListener_c0034095-bad5-4476-88e6-e8318ec34a35",
+                "model_class": "ADModelEventListener",
+                "model_version": 0,
+                "timerMS": 0
+              }
+            ],
+            "modelID": "Transition_6be1cd5a-89dd-40c6-ab79-8af07b691596",
+            "model_class": "ADModelActionScriptAnimation",
+            "model_version": 0,
+            "name": "Transition (Keyframe1 -> Keyframe2)",
+            "originStateName": "keyframe1",
+            "targetStateName": "keyframe2",
+            "timelines": [
+            ],
+            "trigger": 0
+          }
+        ],
+        "defaultStateName": "keyframe1",
+        "isAppRoot": 1,
+        "nestedSymbolsCacheKey": "h5yNI0DUFfaLSDtWay96XQ3eR2fFnEwcgojWF+qM5ow=",
+        "states": [
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0,
+            "name": "keyframe1"
+          },
+          {
+            "model_class": "ADModelViewState",
+            "model_version": 0,
+            "name": "keyframe2"
+          }
+        ],
+        "timelineType": "animation",
+        "variableIDSketchID": "9CD5A8AD-4B2A-4A47-905B-C88D101A576E"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A7BFFC9-85E7-4110-8FEB-573A50FEC0B8",
+    "guides": [
+    ]
+  }
+}

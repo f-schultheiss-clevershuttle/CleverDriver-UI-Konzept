@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE2E312F-3319-4748-9426-49DD8794B93D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "314B63E0-DEE5-4921-92A2-BC01869B213E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77971B15-A777-4B41-84DF-74F0E5E5B6A0",
+    "height": 640,
+    "width": 360,
+    "x": 295,
+    "y": 2018
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "60B24C3C-510D-4547-BC7D-01A2F11A4E70",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CCBE2064-0FBD-4938-90F0-D64D9E27F320"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0C30FD58-7DE9-4CC7-BB58-B267AB63446D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A162E926-16EA-4FC1-8BFF-A6E021F83DC5"
+    },
+    {
+      "class": "group",
+      "id": "B56569C6-D6C0-489E-9961-79A3BB44915A"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2B7DB42-CC32-4B89-AF35-68C7A62C2A63"
+    },
+    {
+      "class": "rectangle",
+      "id": "E4017C55-5B28-4634-B2A1-480260084484"
+    },
+    {
+      "class": "rectangle",
+      "id": "756F273C-E078-4F95-B24E-E4AE6F40FA17"
+    },
+    {
+      "class": "text",
+      "id": "4EB57A8E-6C69-44C7-9623-EFE37B467E2A"
+    },
+    {
+      "class": "text",
+      "id": "1770C210-0F78-4B6B-B8D5-8BCB007D2A22"
+    },
+    {
+      "class": "text",
+      "id": "4CC582E1-0022-426C-B18D-53F258554957"
+    },
+    {
+      "class": "text",
+      "id": "70C35EEC-C75E-47B9-9C19-7F422EC1BDD4"
+    },
+    {
+      "class": "group",
+      "id": "D2829B11-0B71-42D2-B13D-8FE831E949E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "914E2096-8C2C-45AD-A499-272C96C7B196"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "011C7B5D-CF87-4BF2-BBCC-5E5D8BB3C513"
+    },
+    {
+      "class": "text",
+      "id": "D30E82C8-6610-41A3-BC5A-9FA46129E9D1"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 49,
+    "do_objectID": "4468DB11-FF75-41DE-A102-71A048AC21DA",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 344
+  },
+  "name": "1.1.0.b Shuttle verknüpfen",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1CE0BF3-E8E6-4969-B891-77A923152E8E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAppRoot": 0,
+        "nestedSymbolsCacheKey": "+67QXPrb506nqIl9ZRKKXA9yW25BmewPHdku2Ekfz7A="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D833AB5-9F67-4F12-9328-FDA5DDC49E17",
+    "guides": [
+    ]
+  }
+}
